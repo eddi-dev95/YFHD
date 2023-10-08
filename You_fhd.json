@@ -1,0 +1,17 @@
+YouTube FHD
+
+{
+  "API": {
+    "__v": "0.1",
+    "quality": [
+      {"label": "1080p", "value": 1080},
+      {"label": "720p", "value": 720},
+      {"label": "440p", "value": 440},
+      {"label": "380p", "value": 380}
+    ],
+    "v1": "https://loader.to/ajax/download.php?copyright=0&format=",
+    "v2": "https://p.oceansaver.in/ajax/progress.php?id=",
+    "url": "&url=",
+    "api": "&api= dfcb6d76f2f6a9894gjkege8a4ab232222"
+  }
+}
