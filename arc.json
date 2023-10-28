@@ -1,6 +1,6 @@
 {"__v":"1.0.1",
-"Video":{"WEBM 8k":"8K","WEBM 4k":"4K","1440p":440,"1080p":380,"720p":720,"480p":480,"360p":360},
-"Audio":{"MP3":"mp3","M4A":"m4a","WEBM":"webm","ACC":"acc","FLAC":"flac","OPUS":"opus","OGG":"ogg","WAV":"wav"},
+"OptA":{"WEBM 8k":"8K","WEBM 4k":"4K","1440p":"1440","1080p":"1080","720p":"720","480p":"480","360p":"360"},
+"OptV":{"MP3":"mp3","M4A":"m4a","WEBM":"webm","ACC":"acc","FLAC":"flac","OPUS":"opus","OGG":"ogg","WAV":"wav"},
 "v1":"https://loader.to/ajax/download.php?format=",
 "v2":"https://p.oceansaver.in/ajax/progress.php?id=",
 "y":"&url=",
