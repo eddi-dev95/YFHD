@@ -1,11 +1,11 @@
 {"__v":"1.0.1",
-"OptA":{"WEBM 8k":"8K","WEBM 4k":"4K","1440p":"1440","1080p":"1080","720p":"720","480p":"480","360p":"360"},
-"OptV":{"MP3":"mp3","M4A":"m4a","WEBM":"webm","ACC":"acc","FLAC":"flac","OPUS":"opus","OGG":"ogg","WAV":"wav"},
+"OptV":{"WEBM 8k":"8K","WEBM 4k":"4K","1440p":"1440","1080p":"1080","720p":"720","480p":"480","360p":"360"},
+"OptA":{"MP3":"mp3","M4A":"m4a","WEBM":"webm","ACC":"acc","FLAC":"flac","OPUS":"opus","OGG":"ogg","WAV":"wav"},
 "v1":"https://loader.to/ajax/download.php?format=",
 "v2":"https://p.oceansaver.in/ajax/progress.php?id=",
 "y":"&url=",
-"api":"&api= dfcb6d76f2f6a9894gjkege8a4ab232222",
-"Rr":"https://loader.to/",
+"api1":"&api= dfcb6d76f2f6a9894gjkege8a4ab232222",
+"api":"https://loader.to/",
 "Noti":"¡Hey, hay una actualización! Puede descargarla desde el siguiente enlace.\n",
 "New":"false"
 }
